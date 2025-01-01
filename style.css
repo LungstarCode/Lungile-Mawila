@@ -161,6 +161,7 @@ body {
     .header {
         flex-direction: column;
         text-align: center;
+        width: 95%;
     }
     .header-text {
         max-width: 100%;
@@ -186,6 +187,7 @@ body {
     #img-lungile {
         width: 200px;
         border-radius: 6px;
+        
     }
     .footer-container {
         flex-direction: column;
