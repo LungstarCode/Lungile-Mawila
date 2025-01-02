@@ -257,4 +257,7 @@ body {
         flex-direction: column;
         text-align: center;
     }
+    .inspiration {
+        width: 95%;
+    }
 }
